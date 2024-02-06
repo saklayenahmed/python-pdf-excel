@@ -1,6 +1,6 @@
 ## **Follow these steps to run the app and these are only required for the initial opening of the application.**
 
-**Step 01:** Download the application from the provided link in the email.
+**Step 01:** Download the application file from here name as "files_by_python_v4.exe".
 
 **Step 02:** Once the download is finished, tap on the three dots similar to what's shown in the images and select "Keep." Then, proceed by selecting "Keep Anyway" to complete the download process.
 
