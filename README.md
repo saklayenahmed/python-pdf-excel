@@ -2,9 +2,9 @@
 
 **Step 01:** Download the application from the provided link in the email.
 
-![Ignore opening warning](https://raw.githubusercontent.com/saklayenahmed/python-pdf-excel/main/screenshots/01.png)
-
 **Step 02:** Once the download is finished, tap on the three dots similar to what's shown in the images and select "Keep." Then, proceed by selecting "Keep Anyway" to complete the download process.
+
+![Ignore opening warning](https://raw.githubusercontent.com/saklayenahmed/python-pdf-excel/main/screenshots/01.png)
 
 ![Ignore opening warning](https://raw.githubusercontent.com/saklayenahmed/python-pdf-excel/main/screenshots/02.png)
 
