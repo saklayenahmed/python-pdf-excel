@@ -1,4 +1,4 @@
-## **Follow these steps to run this app these are only required for the initial opening of the application.**
+## **Follow these steps to run the app and these are only required for the initial opening of the application.**
 
 **Step 01:** Download the application from the provided link in the email.
 
